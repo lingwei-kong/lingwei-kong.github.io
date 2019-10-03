@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage. Here is my CV.
-
 I am a Phd candidate in Faculty of Economics and Business at University of Amsterdam. I work on econometric theory, and my current research focuses on topics related to weak identification, factor models and asset pricing. 
 
 I am on the job market in 2019-20. 
@@ -19,10 +17,10 @@ If you have any questions or comments, please feel free to contact me at  l.kong
 
 
 ==================
-
-A data-driven personal website
+Recent work
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Weak (Proxy) Factors Robust Hansen-Jagannathan Distance For Linear Asset Pricing Models (Job market paper)
+Lingwei Kong
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+abstract: The Hansen-Jagannathan (HJ) distance statistic is widely used for model selection and specification testing. We show its misbehavior in the presence of weak  (proxy) factors. When (proxy) factors exhibit small correlations with asset returns, model selection based on the HJ distance can favor weak  (proxy) factors, and the conventional specification test procedure based on the HJ distance has poor finite sample performance and can be size distorted even in large samples. We provide novel procedures for specification testing which are robust against the presence of weak (proxy) factors, and a robust risk premia estimator. Our simulation exercises support our theory, and empirical applications support a four-factor model for Fama French portfolios. 
  

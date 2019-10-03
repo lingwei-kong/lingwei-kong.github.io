@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 I am a Phd candidate in Faculty of Economics and Business at University of Amsterdam. I work on econometric theory, and my current research focuses on topics related to weak identification, factor models and asset pricing. 
-
 I am on the job market in 2019-20. 
-
 If you have any questions or comments, please feel free to contact me at  l.kong@uva.nl 
 
 

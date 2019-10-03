@@ -17,7 +17,7 @@ If you have any questions or comments, please feel free to contact me at  l.kong
 
 
 
-Recent work
+# Recent work
 ======
 * Weak (Proxy) Factors Robust Hansen-Jagannathan Distance For Linear Asset Pricing Models (Job market paper)
 Lingwei Kong

@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my homepage on Github, and here is my [google site.](https://sites.google.com/view/lingwei-kong/home) 
+Welcome to my [homepage.](https://sites.google.com/view/lingwei-kong/home) 
 
 I am a Phd candidate in Faculty of Economics and Business at University of Amsterdam. I work on econometric theory, and my current research focuses on topics related to weak identification, factor models and asset pricing. 
 

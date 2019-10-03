@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lingwei Kong"
+title                    : "L Kong"
 title_separator          : "-"
 name                     : &name "Lingwei Kong"
 description              : &description ""
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Lingwei Kong"
   avatar           : "DSC_1517.JPG"
-  bio              : "Tel: (+31) 685438594; Email: l.kong@uva.nl"
+  bio              : "Tel: (+31) 685438594;  Email: l.kong@uva.nl"
   location         : "Amsterdam, Netherlands"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

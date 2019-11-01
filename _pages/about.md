@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my [homepage.](https://sites.google.com/view/lingwei-kong/home) 
+Welcome to my [homepage.](https://sites.google.com/view/lingwei-kong/home)  
 
 I am a Phd candidate in Faculty of Economics and Business at University of Amsterdam. I work on econometric theory, and my current research focuses on topics related to weak identification, factor models and asset pricing. I am on the job market in 2019-20. 
 
 I am on the job market in 2019-20 and will be available for interviews at 2019 European Job Market and 2020 ASSA meeting.
 
-If you have any questions or comments, please feel free to contact me at  l.kong@uva.nl 
+Here is my [CV](https://lingwei-kong.github.io/files/CV_lkong.pdf) If you have any questions or comments, please feel free to contact me at  l.kong@uva.nl 
 
 
 ***

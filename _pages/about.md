@@ -26,11 +26,12 @@ If you have any questions or comments, please feel free to contact me at  l.kong
 
 ##### Placement director
 <span style="font-size:0.8em;">Professor Eric (E.J.) Bartelsman, e.j.bartelsman@vu.nl  </span>
-##### Placement director
-<span style="font-size:0.8em;">Lingwei Kong [PDF](https://sites.google.com/view/lingwei-kong/home) [Slides]()  </span>
+##### Placement assistants
+<span style="font-size:0.8em;">Arianne de Jong, a.de.jong@tinbergen.nl </span>
+<span style="font-size:0.8em;">Christina Mánsson, c.mansson@tinbergen.nl </span>
 
 ##### References
-<span style="font-size:0.8em;">Lingwei Kong [PDF](https://sites.google.com/view/lingwei-kong/home) [Slides]()  </span>
-<span style="font-size:0.8em;">Lingwei Kong [PDF](https://sites.google.com/view/lingwei-kong/home) [Slides]()  </span>
-<span style="font-size:0.8em;">Lingwei Kong [PDF](https://sites.google.com/view/lingwei-kong/home) [Slides]()  </span>
+<span style="font-size:0.8em;">Professor F.R. (Frank) Kleibergen (main advisor) , F.R.Kleibergen@uva.nl</span>
+<span style="font-size:0.8em;">Professor H.P. (Peter) Boswijk, H.P.Boswijk@uva.nl</span>
+<span style="font-size:0.8em;">Associate Professor Zhaoguo Zhan, zzhan@kennesaw.edu </span>
 

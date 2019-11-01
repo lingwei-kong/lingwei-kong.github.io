@@ -27,17 +27,19 @@ If you have any questions or comments, please feel free to contact me at  l.kong
 
 ***
 
+***
+
 ### Placement director
 
 Professor Eric (E.J.) Bartelsman, e.j.bartelsman@vu.nl  
 
-#### Placement assistants
+### Placement assistants
 
 Arianne de Jong, a.de.jong@tinbergen.nl 
 
 Christina Mánsson, c.mansson@tinbergen.nl  
 
-#### References
+### References
  
 Professor F.R. (Frank) Kleibergen (main advisor) , F.R.Kleibergen@uva.nl 
 

@@ -14,7 +14,7 @@ I am a Phd candidate in Faculty of Economics and Business at University of Amste
 
 I am on the job market in 2019-20 and will be available for interviews at 2019 European Job Market and 2020 ASSA meeting.
 
-Here is my [CV](https://lingwei-kong.github.io/files/CV_lkong.pdf) If you have any questions or comments, please feel free to contact me at  l.kong@uva.nl 
+Here is my [CV.](https://lingwei-kong.github.io/files/CV_lkong.pdf) If you have any questions or comments, please feel free to contact me at  l.kong@uva.nl 
 
 
 ***

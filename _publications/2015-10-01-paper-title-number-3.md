@@ -2,11 +2,11 @@
 title: "Weak (Proxy) Factors Robust Hansen-Jagannathan Distance For Linear Asset Pricing Models (Job market paper)"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+# excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+# date: 2015-10-01
+# venue: 'Journal 1'
 paperurl: 'http://lingwei-kong.github.io/files/tempp.pdf'
-citation: ''
+# citation: ''
 ---
 
 [PDF](http://lingwei-kong.github.io/files/tempp.pdf)

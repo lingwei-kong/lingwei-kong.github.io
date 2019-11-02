@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV (https://lingwei-kong.github.io/files/CV_lkong.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:

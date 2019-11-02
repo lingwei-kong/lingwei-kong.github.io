@@ -18,6 +18,8 @@ Here is my [CV.](https://lingwei-kong.github.io/files/CV_lkong.pdf) If you have 
 
 
 ***
+
+***
 ### Job market paper
 #### Weak (Proxy) Factors Robust Hansen-Jagannathan Distance For Linear Asset Pricing Models  
 [PDF](https://sites.google.com/view/lingwei-kong/home) [Slides]()  
@@ -28,7 +30,6 @@ Here is my [CV.](https://lingwei-kong.github.io/files/CV_lkong.pdf) If you have 
 ***
 
 ***
-
 ### Placement director
 
 Professor Eric (E.J.) Bartelsman, e.j.bartelsman@vu.nl  

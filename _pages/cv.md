@@ -30,12 +30,7 @@ University of Groningen (Rug-Fd Double Major). B.S., Econometrics and Operations
 
 Fudan University (Rug-Fd Double Major), B.Econ., Mathematical Economics 
  
-
-#Research Papers
-#======
- # <ul>{% for post in site.publications %}
-  #  {% include archive-single-cv.html %}
- # {% endfor %}</ul>
+ 
      
 Teaching Experience
 ======

@@ -7,7 +7,7 @@ main:
  #    url: /talks/    
 
   - title: "Contact"
-    url: /talkmap/map    
+    url: /talkmap/map/    
     
  #  - title: "Portfolio"
  #    url: /portfolio/

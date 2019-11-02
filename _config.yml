@@ -12,7 +12,7 @@ name                     : &name "Lingwei Kong"
 description              : &description ""
 url                      : https://lingwei-kong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lingwei-kong.github.io"
+repository               : "lingwei-kong/lingwei-kong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

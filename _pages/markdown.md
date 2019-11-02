@@ -7,13 +7,15 @@ redirect_from:
   - /markdown.html
 ---
 
-### Weak (Proxy) Factors Robust Hansen-Jagannathan Distance For Linear Asset Pricing Models (Job Market Paper) 
+### Weak (Proxy) Factors Robust Hansen-Jagannathan Distance For Linear Asset Pricing Models 
+#### (Job Market Paper) 
 [PDF](https://sites.google.com/view/lingwei-kong/home) [Slides]()  
 
 <span style="font-weight: bold;"> Abstract: </span> The Hansen-Jagannathan (HJ) distance statistic is widely used for model selection and specification testing. We show its  misbehavior in the presence of weak  (proxy) factors. When (proxy) factors exhibit small correlations with asset returns, model selection based on the HJ distance can favor weak  (proxy) factors, and the conventional specification test procedure based on the HJ distance has poor finite sample performance and can be size distorted even in large samples. We provide novel procedures for specification testing which are robust against the presence of weak (proxy) factors, and a robust risk premia estimator. Our simulation exercises support our theory, and empirical applications support a four-factor model for Fama French portfolios.  
 
 
-### Identification Robust Testing of Risk Premia in Finite Samples (conditionally accepted: Journal of Financial Econometrics )
+### Identification Robust Testing of Risk Premia in Finite Samples 
+#### (conditionally accepted: Journal of Financial Econometrics )
 co-authored with Frank Kleibergen and Zhaoguo Zhan
 
 <span style="font-weight: bold;"> Abstract: </span> The reliability of tests on risk premia in linear factor models is threatened by limited sample sizes and weak identification of risk premia frequently encountered in applied work. We propose novel tests on the risk premia that are robust to both limited sample sizes and the identification strength of the risk premia as reflected by the quality of the risk factors. These tests are appealing for empirically relevant settings, and lead to confidence sets of the risk premia that can substantially different from conventional ones. To show the latter, we revisit two high-profile empirical applications.

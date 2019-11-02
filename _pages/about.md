@@ -1,12 +1,13 @@
 ---
 permalink: /
 title: "Lingwei Kong's Homepage"
-excerpt: "About me"
+excerpt: "Lingwei Kong's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 Welcome to my [homepage.](https://sites.google.com/view/lingwei-kong/home)  
 

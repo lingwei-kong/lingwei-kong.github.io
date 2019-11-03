@@ -6,11 +6,15 @@ main:
  #  - title: "Talks"
  #    url: /talks/    
 
-  - title: "Contact"
-    url: /contact/    
-  
+
+  - title: "Home"
+    url: /about/
+    
   - title: "Research"
     url: /markdown/
+    
+  - title: "Contact"
+    url: /contact/    
     
  #  - title: "Portfolio"
  #    url: /portfolio/

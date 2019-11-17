@@ -28,7 +28,7 @@ Here is my [CV.](https://lingwei-kong.github.io/files/CV_lkong.pdf) If you have 
 ***
 ### Job market paper
 ### Weak (Proxy) Factors Robust Hansen-Jagannathan Distance For Linear Asset Pricing Models  
-[PDF](https://lingwei-kong.github.io/files/temp.pdf) [Slides]()  
+[PDF](https://lingwei-kong.github.io/files/temp.pdf) [Slides](https://lingwei-kong.github.io/files/main_Oct.pdf)  
 
 <span style="font-weight: bold;"> Abstract: </span> The Hansen-Jagannathan (HJ) distance statistic is one of the most dominant measures of model misspecification. However, the conventional HJ specification test procedure has poor finite sample performance, and we show that it can be size distorted even in large samples when (proxy) factors exhibit small correlations with asset returns. In other words, applied researchers are likely to reject a model even when it is correctly specified falsely. We provide two alternatives for the HJ statistic and two corresponding novel procedures for model specification tests, which are robust against the presence of weak (proxy) factors, and we also offer a novel robust risk premia estimator. Simulation exercises support our theory. Our empirical application documents the non-reliability of the traditional HJ test as it may produce counter-intuitive results, when comparing nested models, by rejecting a four-factor model but not the reduced three-factor model, while our proposed methods are practically more appealing and show support for a four-factor model for Fama French portfolios.  
 

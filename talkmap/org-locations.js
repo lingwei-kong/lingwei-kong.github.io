@@ -1,7 +1,7 @@
 var addressPoints = [
   [
-    "Amsterdam, the Netherlands",
-    52.3677,
-    4.8875
+    "Groningen, the Netherlands",
+53.2383152,
+6.5349696
   ]
 ];

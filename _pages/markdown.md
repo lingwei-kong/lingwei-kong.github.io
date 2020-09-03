@@ -18,6 +18,8 @@ redirect_from:
 
 co-authored with Frank Kleibergen and Zhaoguo Zhan
 
+[PDF](https://lingwei-kong.github.io/files/JFEC_I5.pdf) 
+
 <span style="font-weight: bold;"> Abstract: </span> The reliability of tests on risk premia in linear factor models is threatened by limited sample sizes and weak identification of risk premia frequently encountered in applied work. We propose novel tests on the risk premia that are robust to both limited sample sizes and the identification strength of the risk premia as reflected by the quality of the risk factors. These tests are appealing for empirically relevant settings, and lead to confidence sets of the risk premia that can substantially different from conventional ones. To show the latter, we revisit two high-profile empirical applications.
 
 

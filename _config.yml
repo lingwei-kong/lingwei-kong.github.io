@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Lingwei Kong"
   avatar           : "formal_outside.jpg"
-  bio              : "Tel: (+31) 685438594;  Email: l.kong@rug.nl; This Git backup of my old [personal website:] https://sites.google.com/view/lingwei-kong" 
-  location         : "Amsterdam, Netherlands"
+  bio              : "Tel: (+31) 685438594;  Email: l.kong@rug.nl" 
+  location         : "Groningen, Netherlands"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : ""
+  googlescholar    : #""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

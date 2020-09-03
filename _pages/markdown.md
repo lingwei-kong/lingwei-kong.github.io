@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 ### Weak (Proxy) Factors Robust Hansen-Jagannathan Distance For Linear Asset Pricing Models 
-<-- <span style="font-weight: bold;"> (Job Market Paper) </span> -->
 
 [PDF](https://lingwei-kong.github.io/files/temp.pdf) [Slides](https://lingwei-kong.github.io/files/main_Oct.pdf)  
 

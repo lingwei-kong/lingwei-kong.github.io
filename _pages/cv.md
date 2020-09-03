@@ -16,7 +16,7 @@ Here is my [CV.](https://lingwei-kong.github.io/files/CV_lkong.pdf)
 
  
     
-{% Education
+ <!--  Education
 =====
 * 2016 - present
   * University of Amsterdam Ph.D., Economics; (Indication of the date of the PhD: Sep 2020)
@@ -53,4 +53,4 @@ Teaching Assistant
     * Probability Theory (Undergraduate);
     * probability Distribution (Undergraduate).
 
-%}
+-->

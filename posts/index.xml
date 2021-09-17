@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Lingwei Kong</title>
+        <link>http://lingwei-kong.github.io/posts/</link>
+        <description>Recent content in Posts on Lingwei Kong</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 15 Sep 2021 08:18:14 +0200</lastBuildDate>
+        <atom:link href="http://lingwei-kong.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Some of my works</title>
+            <link>http://lingwei-kong.github.io/posts/test/</link>
+            <pubDate>Wed, 15 Sep 2021 08:18:14 +0200</pubDate>
+            
+            <guid>http://lingwei-kong.github.io/posts/test/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>

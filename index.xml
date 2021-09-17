@@ -13,7 +13,8 @@
       <pubDate>Wed, 15 Sep 2021 08:18:14 +0200</pubDate>
       
       <guid>http://lingwei-kong.github.io/posts/test/</guid>
-      <description></description>
+      <description>Weak (Proxy) Factors Robust Hansen-Jagannathan Distance PDF
+ Abstract: The Hansen-Jagannathan (HJ) distance statistic is one of the most dominant measures of model misspecification. However, the conventional HJ specification test procedure has poor finite sample performance, and we show that it can be size distorted even in large samples when (proxy) factors exhibit small correlations with asset returns. In other words, applied researchers are likely to reject a model even when it is correctly specified falsely.</description>
     </item>
     
     <item>

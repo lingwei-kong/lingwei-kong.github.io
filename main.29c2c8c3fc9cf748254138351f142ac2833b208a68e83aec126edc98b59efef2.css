@@ -32,7 +32,10 @@ pre[class*="language-"],:not(pre)>code[class*="language-"]{background:#141414}pr
 
 /*# sourceMappingURL=main.css.map */
 .post-content {
-    margin: 30px 5px; /* Adjust margin values as needed */
+ width: 100%; /* Full width */
+  max-width: none; /* Removed max-width constraint */
+  margin: 0; /* Removed any margin */
+  padding: 0; /* Removed padding */
 }
 
  

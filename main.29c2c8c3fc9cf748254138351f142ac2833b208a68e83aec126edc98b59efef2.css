@@ -38,6 +38,11 @@ pre[class*="language-"],:not(pre)>code[class*="language-"]{background:#141414}pr
   padding: 0; /* Removed padding */
 }
 
+article .post-content {
+    margin-left: 10px !important;
+    margin-right: 5px !important;
+   width: 90% !important; /* Added for full width */
+}
  
  
 /* Updated layout to use full width of the page */
